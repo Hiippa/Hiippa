@@ -1,6 +1,6 @@
 # Welcome to my Github
 
-Studen who studies on Cybersecurity
+Studen who studies Cybersecurity
 
 ### Projects where i have been part of
 
