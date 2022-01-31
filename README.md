@@ -1,6 +1,6 @@
 # Welcome to my Github
 
-Studen who studies Cybersecurity
+Studend who studies Cyber Security
 
 ### Projects where i have been part of
 
@@ -9,7 +9,21 @@ Studen who studies Cybersecurity
 - Frontend: React Native (Mobile)
 - Backend: Node.js
 
-Also i have done multiple projects in school on which sadly i have not saved information
-- Photo databank with map and locations.
-- Frontend: React
-- Backend: PHP (Laravel)
+Also I have participated doing multiple programs in small teams at school projects:
+
+- **Photo databank with map and locations**
+  - Frontend: React
+  - Backend: PHP (Laravel)
+
+- **Simple Chat program**
+  - Python3
+  - users can chat and data is saved to server
+
+- **IoT programs:**
+  - **Weatherstation**
+    - Pyhton, PHP
+    - Ruuvitag, RasperryPi, Uno
+
+  - **Scale**
+    - Python
+    - RasperryPi, Ownscale build
